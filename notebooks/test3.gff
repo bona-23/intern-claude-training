@@ -1,0 +1,251 @@
+NC_000913	Ecocyc_14.1	gene	504138	505790	.	+	.	locus_tag=b0480;gene=ushA;feature=gene;product=5'-nucleotidase / UDP-sugar hydrolase;KpOrtho=KPN_00461;color=00FF00
+NC_000913	Ecocyc_14.1	gene	506428	506511	.	+	.	locus_tag=b4585;gene=micM;feature=gene;product=MicM small regulatory RNA;color=FF0000
+NC_000913	Ecocyc_14.1	gene	507442	507783	.	+	.	locus_tag=b0483;gene=ybaQ;feature=gene;product=predicted DNA-binding transcriptional regulator
+NC_000913	Ecocyc_14.1	gene	510865	511797	.	+	.	locus_tag=b0485;gene=ybaS;feature=gene;product=glutaminase
+NC_000913	Ecocyc_14.1	gene	511800	513092	.	+	.	locus_tag=b0486;gene=ybaT;feature=gene;product=YbaT APC transporter
+NC_000913	Ecocyc_14.1	gene	513217	513624	.	+	.	locus_tag=b0487;gene=cueR;feature=gene;product=CueR transcriptional dual regulator;KpOrtho=KPN_00465;color=00FF00
+NC_000913	Ecocyc_14.1	gene	515143	515820	.	+	.	locus_tag=b0490;gene=ybbL;feature=gene;product=predicted transporter subunit: ATP-binding component of ABC superfamily;KpOrtho=KPN_00468;color=00FF00
+NC_000913	Ecocyc_14.1	gene	515807	516586	.	+	.	locus_tag=b0491;gene=ybbM;feature=gene;product=putative metal resistance protein;KpOrtho=KPN_00469;color=00FF00
+NC_000913	Ecocyc_14.1	gene	518957	519643	.	+	.	locus_tag=b0495;gene=ybbA;feature=gene;product=YbbA/YbbP ABC transporter;KpOrtho=KPN_00473;color=00FF00
+NC_000913	Ecocyc_14.1	gene	519640	522054	.	+	.	locus_tag=b0496;gene=ybbP;feature=gene;product=YbbA/YbbP ABC transporter;KpOrtho=KPN_00474;color=00FF00
+NC_000913	Ecocyc_14.1	gene	522485	526765	.	+	.	locus_tag=b0497;gene=rhsD;feature=gene;product=RhsD protein in rhs element
+NC_000913	Ecocyc_14.1	gene	526805	527173	.	+	.	locus_tag=b0498;gene=ybbC;feature=gene;product=predicted protein
+NC_000913	Ecocyc_14.1	gene	527173	527883	.	+	.	locus_tag=b0499;gene=ylbH;feature=gene;product=conserved protein, rhs-like
+NC_000913	Ecocyc_14.1	gene	527864	528124	.	+	.	locus_tag=b0500;gene=ybbD;feature=gene;product=predicted protein
+NC_000913	Ecocyc_14.1	gene	528724	528816	.	+	.	locus_tag=b4632;gene=ylbI;feature=gene;product=,NCBI_nonoverlapping
+NC_000913	Ecocyc_14.1	gene	531675	532157	.	+	.	locus_tag=b0505;gene=allA;feature=gene;product=ureidoglycolate lyase
+NC_000913	Ecocyc_14.1	gene	532235	533050	.	+	.	locus_tag=b0506;gene=allR;feature=gene;product=AllR transcriptional repressor
+NC_000913	Ecocyc_14.1	gene	533140	534921	.	+	.	locus_tag=b0507;gene=gcl;feature=gene;product=glyoxylate carboligase
+NC_000913	Ecocyc_14.1	gene	534934	535710	.	+	.	locus_tag=b0508;gene=hyi;feature=gene;product=hydroxypyruvate isomerase
+NC_000913	Ecocyc_14.1	gene	535810	536688	.	+	.	locus_tag=b0509;gene=glxR;feature=gene;product=tartronate semialdehyde reductase 2
+NC_000913	Ecocyc_14.1	gene	536720	536998	.	+	.	locus_tag=b0510;gene=ybbV;feature=gene;product=predicted protein
+NC_000913	Ecocyc_14.1	gene	536857	538311	.	+	.	locus_tag=b0511;gene=ybbW;feature=gene;product=YbbW NCS1 Transporter
+NC_000913	Ecocyc_14.1	gene	538371	539732	.	+	.	locus_tag=b0512;gene=allB;feature=gene;product=allantoinase monomer
+NC_000913	Ecocyc_14.1	gene	539789	541090	.	+	.	locus_tag=b0513;gene=ybbY;feature=gene;product=predicted uracil/xanthine transporter
+NC_000913	Ecocyc_14.1	gene	541112	542257	.	+	.	locus_tag=b0514;gene=glxK;feature=gene;product=glycerate kinase II
+NC_000913	Ecocyc_14.1	gene	545904	547571	.	+	.	locus_tag=b0518;gene=fdrA;feature=gene;product=involved in protein transport, multicopy suppressor of dominant negative ftsH mutants
+NC_000913	Ecocyc_14.1	gene	547581	547841	.	+	.	locus_tag=b4507;gene=ylbE_1;feature=gene;product=Interrupted-Genes
+NC_000913	Ecocyc_14.1	gene	547838	548839	.	+	.	locus_tag=b0519;gene=ylbE_2;feature=gene;product=Interrupted-Genes
+NC_000913	Ecocyc_14.1	gene	548850	549665	.	+	.	locus_tag=b0520;gene=ylbF;feature=gene;product=conserved protein
+NC_000913	Ecocyc_14.1	gene	549662	550555	.	+	.	locus_tag=b0521;gene=ybcF;feature=gene;product=predicted carbamate kinase
+NC_000913	Ecocyc_14.1	gene	553834	555219	.	+	.	locus_tag=b0526;gene=cysS;feature=gene;product=cysteinyl-tRNA synthetase;KpOrtho=KPN_00482;color=00FF00
+NC_000913	Ecocyc_14.1	gene	557435	557977	.	+	.	locus_tag=b0530;gene=sfmA;feature=gene;product=predicted fimbrial-like adhesin protein
+NC_000913	Ecocyc_14.1	gene	558197	558889	.	+	.	locus_tag=b0531;gene=sfmC;feature=gene;product=predicted pilin chaperone, periplasmic
+NC_000913	Ecocyc_14.1	gene	558920	561523	.	+	.	locus_tag=b0532;gene=sfmD;feature=gene;product=predicted outer membrane export usher protein
+NC_000913	Ecocyc_14.1	gene	561565	562542	.	+	.	locus_tag=b0533;gene=sfmH;feature=gene;product=predicted fimbrial-like adhesin protein
+NC_000913	Ecocyc_14.1	gene	562553	563068	.	+	.	locus_tag=b0534;gene=sfmF;feature=gene;product=predicted fimbrial-like adhesin protein
+NC_000913	Ecocyc_14.1	gene	563946	564022	.	+	.	locus_tag=b0536;gene=argU;feature=gene;product=tRNA (argU)
+NC_000913	Ecocyc_14.1	gene	565674	565910	.	+	.	locus_tag=b4508;gene=ybcD;feature=gene;product=Pseudo-Genes
+NC_000913	Ecocyc_14.1	gene	566056	566364	.	+	.	locus_tag=b0540;gene=insE-3;feature=gene;product=IS3 element protein InsE
+NC_000913	Ecocyc_14.1	gene	566056	567227	.	+	.	locus_tag=G0-10530;gene=insEF-3;feature=gene;product=IS3 element transposase
+NC_000913	Ecocyc_14.1	gene	566361	567227	.	+	.	locus_tag=b0541;gene=insF-3;feature=gene;product=IS3 element protein InsF
+NC_000913	Ecocyc_14.1	gene	567285	567470	.	+	.	locus_tag=b0542;gene=renD;feature=gene;product=DLP12 prophage, predicted protein
+NC_000913	Ecocyc_14.1	gene	567538	567870	.	+	.	locus_tag=b0543;gene=emrE;feature=gene;product=EmrE SMR transporter
+NC_000913	Ecocyc_14.1	gene	568125	569651	.	+	.	locus_tag=b0544;gene=ybcK;feature=gene;product=DLP12 prophage, predicted recombinase
+NC_000913	Ecocyc_14.1	gene	570116	570667	.	+	.	locus_tag=b0545;gene=ybcL;feature=gene;product=DLP12 prophage, predicted kinase inhibitor;KpOrtho=KPN_01002;color=00FF00
+NC_000913	Ecocyc_14.1	gene	570677	571474	.	+	.	locus_tag=b0546;gene=ybcM;feature=gene;product=DLP12 prophage, predicted DNA-binding transcriptional regulator
+NC_000913	Ecocyc_14.1	gene	571591	571692	.	+	.	locus_tag=b4588;gene=ylcH;feature=gene;product=DLP12 prophage, hypothetical protein
+NC_000913	Ecocyc_14.1	gene	571689	572144	.	+	.	locus_tag=b0547;gene=ybcN;feature=gene;product=DLP12 prophage, DNA base-flipping protein
+NC_000913	Ecocyc_14.1	gene	572144	572314	.	+	.	locus_tag=b0548;gene=ninE;feature=gene;product=DLP12 prophage, conserved protein similar to phage 82 and lambda proteins
+NC_000913	Ecocyc_14.1	gene	572307	572597	.	+	.	locus_tag=b0549;gene=ybcO;feature=gene;product=DLP12 prophage, predicted protein
+NC_000913	Ecocyc_14.1	gene	572594	572956	.	+	.	locus_tag=b0550;gene=rusA;feature=gene;product=endodeoxyribonuclease RUS (Holliday junction resolvase)
+NC_000913	Ecocyc_14.1	gene	572953	573093	.	+	.	locus_tag=b4509;gene=ylcG;feature=gene;product=DLP12 prophage, small protein
+NC_000913	Ecocyc_14.1	gene	573179	573562	.	+	.	locus_tag=b0551;gene=ybcQ;feature=gene;product=DLP12 prophage, predicted antitermination protein
+NC_000913	Ecocyc_14.1	gene	576621	576836	.	+	.	locus_tag=b0554;gene=essD;feature=gene;product=DLP12 prophage, predicted phage lysis protein
+NC_000913	Ecocyc_14.1	gene	576836	577333	.	+	.	locus_tag=b0555;gene=ybcS;feature=gene;product=DLP12 prophage, lysozyme
+NC_000913	Ecocyc_14.1	gene	577330	577791	.	+	.	locus_tag=b0556;gene=rzpD;feature=gene;product=DLP12 prophage, predicted murein endopeptidase
+NC_000913	Ecocyc_14.1	gene	577550	577732	.	+	.	locus_tag=b4510;gene=rzoD;feature=gene;product=DLP12 prophage, predicted lipoprotein
+NC_000913	Ecocyc_14.1	gene	579103	579309	.	+	.	locus_tag=b0559;gene=ybcW;feature=gene;product=DLP12 prophage, predicted protein
+NC_000913	Ecocyc_14.1	gene	580057	580602	.	+	.	locus_tag=b0560;gene=nohB;feature=gene;product=DLP12 prophage, DNA packaging protein
+NC_000913	Ecocyc_14.1	gene	580757	581320	.	+	.	locus_tag=b0561;gene=tfaD;feature=gene;product=DLP12 prophage, predicted tail fiber assembly protein, Pseudo-Genes
+NC_000913	Ecocyc_14.1	gene	582098	582283	.	+	.	locus_tag=b0563;gene=tfaX;feature=gene;product=DLP12 prophage, predicted protein
+NC_000913	Ecocyc_14.1	gene	582904	583653	.	+	.	locus_tag=b0564;gene=appY;feature=gene;product=AppY DNA binding transcriptional activator
+NC_000913	Ecocyc_14.1	gene	585280	585324	.	+	.	locus_tag=b4635;gene=pauD;feature=gene;product=Xaa tRNA,NCBI_nonoverlapping
+NC_000913	Ecocyc_14.1	gene	594823	596196	.	+	.	locus_tag=b0572;gene=cusC;feature=gene;product=outer membrane factor of the CusCFBA copper/silver efflux system;KpOrtho=KPN_04739;color=00FF00
+NC_000913	Ecocyc_14.1	gene	596354	596686	.	+	.	locus_tag=b0573;gene=cusF;feature=gene;product=periplasmic copper/silver-binding protein;KpOrtho=KPN_04738;color=00FF00
+NC_000913	Ecocyc_14.1	gene	596702	597925	.	+	.	locus_tag=b0574;gene=cusB;feature=gene;product=membrane fusion protein of the CusCFBA copper efflux system;KpOrtho=KPN_04737;color=00FF00
+NC_000913	Ecocyc_14.1	gene	597937	601080	.	+	.	locus_tag=b0575;gene=cusA;feature=gene;product=copper/silver transporting efflux system;KpOrtho=KPN_04736;color=00FF00
+NC_000913	Ecocyc_14.1	gene	601182	602558	.	+	.	locus_tag=b0576;gene=pheP;feature=gene;product=PheP  phenylalanine APC transporter;KpOrtho=KPN_00537;color=00FF00
+NC_000913	Ecocyc_14.1	gene	607059	607211	.	+	.	locus_tag=b4415;gene=hokE;feature=gene;product=HokE;KpOrtho=KPN_03095;color=00FF00
+NC_000913	Ecocyc_14.1	gene	607288	608400	.	+	.	locus_tag=b0582;gene=insL-2;feature=gene;product=IS186/IS421 transposase
+NC_000913	Ecocyc_14.1	gene	612038	613162	.	+	.	locus_tag=b0585;gene=fes;feature=gene;product=enterochelin esterase;KpOrtho=KPN_00603;color=00FF00
+NC_000913	Ecocyc_14.1	gene	613165	613383	.	+	.	locus_tag=b4511;gene=ybdZ;feature=gene;product=conserved protein;KpOrtho=KPN_00604;color=00FF00
+NC_000913	Ecocyc_14.1	gene	613380	617261	.	+	.	locus_tag=b0586;gene=entF;feature=gene;product=aryl carrier protein / serine activating enzyme;KpOrtho=KPN_00605;color=00FF00
+NC_000913	Ecocyc_14.1	gene	617477	618610	.	+	.	locus_tag=b0587;gene=fepE;feature=gene;product=ferric enterobactin (enterochelin) transport
+NC_000913	Ecocyc_14.1	gene	621523	622773	.	+	.	locus_tag=b0591;gene=entS;feature=gene;product=EntS MFS transporter;KpOrtho=KPN_00609;color=00FF00
+NC_000913	Ecocyc_14.1	gene	624108	625283	.	+	.	locus_tag=b0593;gene=entC;feature=gene;product=isochorismate synthase 1;KpOrtho=KPN_00611;color=00FF00
+NC_000913	Ecocyc_14.1	gene	625293	626903	.	+	.	locus_tag=b0594;gene=entE;feature=gene;product=enterobactin synthase multienzyme complex;KpOrtho=KPN_00612;color=00FF00
+NC_000913	Ecocyc_14.1	gene	626917	627774	.	+	.	locus_tag=b0595;gene=entB;feature=gene;product=apo-EntB;KpOrtho=KPN_00613;color=00FF00
+NC_000913	Ecocyc_14.1	gene	627774	628520	.	+	.	locus_tag=b0596;gene=entA;feature=gene;product=2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase;KpOrtho=KPN_00614;color=00FF00
+NC_000913	Ecocyc_14.1	gene	628523	628936	.	+	.	locus_tag=b0597;gene=entH;feature=gene;product=proofreading thioesterase in enterobactin biosynthesis;KpOrtho=KPN_00615;color=00FF00
+NC_000913	Ecocyc_14.1	gene	629117	631222	.	+	.	locus_tag=b0598;gene=cstA;feature=gene;product=peptide transporter induced by carbon starvation;KpOrtho=KPN_00616;color=00FF00
+NC_000913	Ecocyc_14.1	gene	631405	631602	.	+	.	locus_tag=b4512;gene=ybdD;feature=gene;product=conserved protein;KpOrtho=KPN_00617;color=00FF00
+NC_000913	Ecocyc_14.1	gene	632809	633969	.	+	.	locus_tag=b0600;gene=ybdL;feature=gene;product=methionine aminotransferase, PLP-dependent;KpOrtho=KPN_00645;color=00FF00
+NC_000913	Ecocyc_14.1	gene	638168	638731	.	+	.	locus_tag=b0605;gene=ahpC;feature=gene;product=AhpC component;KpOrtho=KPN_00650;color=00FF00
+NC_000913	Ecocyc_14.1	gene	638976	640541	.	+	.	locus_tag=b0606;gene=ahpF;feature=gene;product=AhpF component;KpOrtho=KPN_00651;color=00FF00
+NC_000913	Ecocyc_14.1	gene	641311	642549	.	+	.	locus_tag=b0608;gene=ybdR;feature=gene;product=predicted oxidoreductase, Zn-dependent and NAD(P)-binding;KpOrtho=KPN_01148;color=00FF00
+NC_000913	Ecocyc_14.1	gene	651458	653116	.	+	.	locus_tag=b0619;gene=dpiB;feature=gene;product=DpiB
+NC_000913	Ecocyc_14.1	gene	653085	653765	.	+	.	locus_tag=b0620;gene=dpiA;feature=gene;product=DpiA-P (asp) DNA binding transcriptional dual regulator
+NC_000913	Ecocyc_14.1	gene	655780	656340	.	+	.	locus_tag=b0622;gene=pagP;feature=gene;product=PagP monomer;KpOrtho=KPN_00655;color=00FF00
+NC_000913	Ecocyc_14.1	gene	656515	656724	.	+	.	locus_tag=b0623;gene=cspE;feature=gene;product=transcription antiterminator and regulator of RNA stability;KpOrtho=KPN_00656;color=00FF00
+NC_000913	Ecocyc_14.1	gene	657254	657481	.	+	.	locus_tag=b0625;gene=ybeM_1;feature=gene;product=Pseudo-Genes
+NC_000913	Ecocyc_14.1	gene	657478	658041	.	+	.	locus_tag=b0626;gene=ybeM_2;feature=gene;product=Pseudo-Genes
+NC_000913	Ecocyc_14.1	gene	658170	658373	.	+	.	locus_tag=b0627;gene=tatE;feature=gene;product=TatABCE protein export complex;KpOrtho=KPN_00659;color=00FF00
+NC_000913	Ecocyc_14.1	gene	674241	674723	.	+	.	locus_tag=b0643;gene=ybeL;feature=gene;product=conserved protein;KpOrtho=KPN_00675;color=00FF00
+NC_000913	Ecocyc_14.1	gene	675934	676641	.	+	.	locus_tag=b0645;gene=ybeR;feature=gene;product=predicted protein
+NC_000913	Ecocyc_14.1	gene	676638	678065	.	+	.	locus_tag=b0646;gene=djlB;feature=gene;product=predicted chaperone
+NC_000913	Ecocyc_14.1	gene	678731	679438	.	+	.	locus_tag=b0648;gene=ybeU;feature=gene;product=predicted tRNA ligase
+NC_000913	Ecocyc_14.1	gene	679435	680886	.	+	.	locus_tag=b0649;gene=djlC;feature=gene;product=Hsc56, co-chaperone of Hsc62
+NC_000913	Ecocyc_14.1	gene	694324	695499	.	+	.	locus_tag=b0662;gene=ubiF;feature=gene;product=2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase;KpOrtho=KPN_00687;color=00FF00
+NC_000913	Ecocyc_14.1	gene	703167	705113	.	+	.	locus_tag=b0679;gene=nagE;feature=gene;product=N-acetylglucosamine PTS permease;KpOrtho=KPN_00700;color=00FF00
+NC_000913	Ecocyc_14.1	gene	705316	706980	.	+	.	locus_tag=b0680;gene=glnS;feature=gene;product=glutaminyl-tRNA synthetase;KpOrtho=KPN_00701;color=00FF00
+NC_000913	Ecocyc_14.1	gene	707557	708963	.	+	.	locus_tag=b0681;gene=chiP;feature=gene;product=ChiP;KpOrtho=KPN_00703;color=00FF00
+NC_000913	Ecocyc_14.1	gene	709013	709339	.	+	.	locus_tag=b0682;gene=ybfN;feature=gene;product=predicted lipoprotein;KpOrtho=KPN_00704;color=00FF00
+NC_000913	Ecocyc_14.1	gene	712210	712755	.	+	.	locus_tag=b0687;gene=seqA;feature=gene;product=SeqA, negative modulator of initiation of replication;KpOrtho=KPN_00710;color=00FF00
+NC_000913	Ecocyc_14.1	gene	712781	714421	.	+	.	locus_tag=b0688;gene=pgm;feature=gene;product=phosphoglucomutase;KpOrtho=KPN_00711;color=00FF00
+NC_000913	Ecocyc_14.1	gene	714635	715129	.	+	.	locus_tag=b0689;gene=ybfP;feature=gene;product=putative pectinase
+NC_000913	Ecocyc_14.1	gene	719806	720063	.	+	.	locus_tag=b4590;gene=ybfK;feature=gene;product=hypothetical protein
+NC_000913	Ecocyc_14.1	gene	728357	728563	.	+	.	locus_tag=b0699;gene=ybfA;feature=gene;product=predicted protein;KpOrtho=KPN_00718;color=00FF00
+NC_000913	Ecocyc_14.1	gene	728806	732999	.	+	.	locus_tag=b0700;gene=rhsC;feature=gene;product=RhsC protein in rhs element
+NC_000913	Ecocyc_14.1	gene	732999	733325	.	+	.	locus_tag=b0702;gene=ybfB;feature=gene;product=predicted inner membrane protein
+NC_000913	Ecocyc_14.1	gene	733443	734876	.	+	.	locus_tag=b0703;gene=ybfO;feature=gene;product=Pseudo-Genes
+NC_000913	Ecocyc_14.1	gene	734873	735442	.	+	.	locus_tag=b0704;gene=ybfC;feature=gene;product=predicted protein
+NC_000913	Ecocyc_14.1	gene	735668	735922	.	+	.	locus_tag=b4514;gene=ybfQ;feature=gene;product=predicted transposase
+NC_000913	Ecocyc_14.1	gene	736123	737184	.	+	.	locus_tag=b0705;gene=ybfL;feature=gene;product=predicted transposase, receptor protein, Pseudo-Genes
+NC_000913	Ecocyc_14.1	gene	737315	738076	.	+	.	locus_tag=b0706;gene=ybfD;feature=gene;product=putative DNA ligase
+NC_000913	Ecocyc_14.1	gene	738224	738733	.	+	.	locus_tag=b0707;gene=ybgA;feature=gene;product=conserved protein
+NC_000913	Ecocyc_14.1	gene	738730	740148	.	+	.	locus_tag=b0708;gene=phr;feature=gene;product=deoxyribodipyrimidine photolyase (photoreactivation);KpOrtho=KPN_00719;color=00FF00
+NC_000913	Ecocyc_14.1	gene	742050	742793	.	+	.	locus_tag=b0710;gene=ybgI;feature=gene;product=conserved metal-binding protein;KpOrtho=KPN_00721;color=00FF00
+NC_000913	Ecocyc_14.1	gene	742816	743472	.	+	.	locus_tag=b0711;gene=ybgJ;feature=gene;product=putative carboxylase;KpOrtho=KPN_00722;color=00FF00
+NC_000913	Ecocyc_14.1	gene	743466	744398	.	+	.	locus_tag=b0712;gene=ybgK;feature=gene;product=putative carboxylase;KpOrtho=KPN_00723;color=00FF00
+NC_000913	Ecocyc_14.1	gene	744388	745122	.	+	.	locus_tag=b0713;gene=ybgL;feature=gene;product=predicted lactam utilization protein;KpOrtho=KPN_00724;color=00FF00
+NC_000913	Ecocyc_14.1	gene	745158	745949	.	+	.	locus_tag=b0714;gene=nei;feature=gene;product=endonuclease VIII;KpOrtho=KPN_00726;color=00FF00
+NC_000913	Ecocyc_14.1	gene	754400	754789	.	+	.	locus_tag=b0721;gene=sdhC;feature=gene;product=succinate dehydrogenase membrane protein;KpOrtho=KPN_00728;color=00FF00
+NC_000913	Ecocyc_14.1	gene	754783	755130	.	+	.	locus_tag=b0722;gene=sdhD;feature=gene;product=succinate dehydrogenase membrane protein;KpOrtho=KPN_00729;color=00FF00
+NC_000913	Ecocyc_14.1	gene	755130	756896	.	+	.	locus_tag=b0723;gene=sdhA;feature=gene;product=succinate dehydrogenase flavoprotein;KpOrtho=KPN_00730;color=00FF00
+NC_000913	Ecocyc_14.1	gene	756912	757628	.	+	.	locus_tag=b0724;gene=sdhB;feature=gene;product=succinate dehydrogenase iron-sulfur protein;KpOrtho=KPN_00731;color=00FF00
+NC_000913	Ecocyc_14.1	gene	757929	760730	.	+	.	locus_tag=b0726;gene=sucA;feature=gene;product=subunit of E1(0) component of 2-oxoglutarate dehydrogenase;KpOrtho=KPN_00732;color=00FF00
+NC_000913	Ecocyc_14.1	gene	760745	761962	.	+	.	locus_tag=b0727;gene=sucB;feature=gene;product=2-oxoglutarate dehydrogenase complex;KpOrtho=KPN_00733;color=00FF00
+NC_000913	Ecocyc_14.1	gene	762237	763403	.	+	.	locus_tag=b0728;gene=sucC;feature=gene;product=succinyl-CoA synthetase, beta subunit;KpOrtho=KPN_00734;color=00FF00
+NC_000913	Ecocyc_14.1	gene	763403	764272	.	+	.	locus_tag=b0729;gene=sucD;feature=gene;product=succinyl-CoA synthetase, alpha subunit;KpOrtho=KPN_00735;color=00FF00
+NC_000913	Ecocyc_14.1	gene	765207	767183	.	+	.	locus_tag=b0731;gene=mngA;feature=gene;product=2-O-alpha-mannosyl-D-glycerate transporting phosphotransferase system
+NC_000913	Ecocyc_14.1	gene	767201	769834	.	+	.	locus_tag=b0732;gene=mngB;feature=gene;product=alpha-mannosidase
+NC_000913	Ecocyc_14.1	gene	770681	772249	.	+	.	locus_tag=b0733;gene=cydA;feature=gene;product=cytochrome bd-I terminal oxidase subunit I;KpOrtho=KPN_00736;color=00FF00
+NC_000913	Ecocyc_14.1	gene	772265	773404	.	+	.	locus_tag=b0734;gene=cydB;feature=gene;product=cytochrome bd-I terminal oxidase subunit II;KpOrtho=KPN_00737;color=00FF00
+NC_000913	Ecocyc_14.1	gene	773419	773532	.	+	.	locus_tag=b4515;gene=ybgT;feature=gene;product=small membrane protein;KpOrtho=KPN_00738;color=00FF00
+NC_000913	Ecocyc_14.1	gene	773532	773825	.	+	.	locus_tag=b0735;gene=ybgE;feature=gene;product=putative lipoprotein;KpOrtho=KPN_00739;color=00FF00
+NC_000913	Ecocyc_14.1	gene	773975	774379	.	+	.	locus_tag=b0736;gene=ybgC;feature=gene;product=esterase/thioesterase;KpOrtho=KPN_00740;color=00FF00
+NC_000913	Ecocyc_14.1	gene	774376	775068	.	+	.	locus_tag=b0737;gene=tolQ;feature=gene;product=The Colicin A Import System;KpOrtho=KPN_00741;color=00FF00
+NC_000913	Ecocyc_14.1	gene	775072	775500	.	+	.	locus_tag=b0738;gene=tolR;feature=gene;product=The Colicin A Import System;KpOrtho=KPN_00742;color=00FF00
+NC_000913	Ecocyc_14.1	gene	775565	776830	.	+	.	locus_tag=b0739;gene=tolA;feature=gene;product=The Colicin A Import System;KpOrtho=KPN_00743;color=00FF00
+NC_000913	Ecocyc_14.1	gene	776963	778255	.	+	.	locus_tag=b0740;gene=tolB;feature=gene;product=The Colicin A Import System;KpOrtho=KPN_00744;color=00FF00
+NC_000913	Ecocyc_14.1	gene	778290	778811	.	+	.	locus_tag=b0741;gene=pal;feature=gene;product=The Colicin A Import System;KpOrtho=KPN_00745;color=00FF00
+NC_000913	Ecocyc_14.1	gene	778821	779612	.	+	.	locus_tag=b0742;gene=ybgF;feature=gene;product=predicted periplasmic protein;KpOrtho=KPN_00746;color=00FF00
+NC_000913	Ecocyc_14.1	gene	779777	779852	.	+	.	locus_tag=b0743;gene=lysT;feature=gene;product=tRNA (lysT)
+NC_000913	Ecocyc_14.1	gene	779988	780063	.	+	.	locus_tag=b0744;gene=valT;feature=gene;product=tRNA (valT)
+NC_000913	Ecocyc_14.1	gene	780066	780141	.	+	.	locus_tag=b0745;gene=lysW;feature=gene;product=tRNA (lysW)
+NC_000913	Ecocyc_14.1	gene	780291	780366	.	+	.	locus_tag=b0746;gene=valZ;feature=gene;product=tRNA (valZ)
+NC_000913	Ecocyc_14.1	gene	780370	780445	.	+	.	locus_tag=b0747;gene=lysY;feature=gene;product=tRNA (lysY)
+NC_000913	Ecocyc_14.1	gene	780592	780667	.	+	.	locus_tag=b0748;gene=lysZ;feature=gene;product=tRNA (lysZ)
+NC_000913	Ecocyc_14.1	gene	780800	780875	.	+	.	locus_tag=b0749;gene=lysQ;feature=gene;product=tRNA (lysQ)
+NC_000913	Ecocyc_14.1	gene	781308	782351	.	+	.	locus_tag=b0750;gene=nadA;feature=gene;product=quinolinate synthase;KpOrtho=KPN_00754;color=00FF00
+NC_000913	Ecocyc_14.1	gene	782389	783108	.	+	.	locus_tag=b0751;gene=pnuC;feature=gene;product=PnuC  NMN transporter;KpOrtho=KPN_00755;color=00FF00
+NC_000913	Ecocyc_14.1	gene	784856	785908	.	+	.	locus_tag=b0754;gene=aroG;feature=gene;product=2-dehydro-3-deoxyphosphoheptonate aldolase;KpOrtho=KPN_00758;color=00FF00
+NC_000913	Ecocyc_14.1	gene	793996	794145	.	+	.	locus_tag=b0762;gene=ybhT;feature=gene;product=small membrane protein involved in the cell envelope stress response;KpOrtho=KPN_00776;color=00FF00
+NC_000913	Ecocyc_14.1	gene	794312	795085	.	+	.	locus_tag=b0763;gene=modA;feature=gene;product=molybdate ABC transporter;KpOrtho=KPN_00777;color=00FF00
+NC_000913	Ecocyc_14.1	gene	795085	795774	.	+	.	locus_tag=b0764;gene=modB;feature=gene;product=molybdate ABC transporter;KpOrtho=KPN_00778;color=00FF00
+NC_000913	Ecocyc_14.1	gene	795777	796835	.	+	.	locus_tag=b0765;gene=modC;feature=gene;product=molybdate ABC transporter;KpOrtho=KPN_00779;color=00FF00
+NC_000913	Ecocyc_14.1	gene	797809	798804	.	+	.	locus_tag=b0767;gene=pgl;feature=gene;product=6-phosphogluconolactonase;KpOrtho=KPN_00781;color=00FF00
+NC_000913	Ecocyc_14.1	gene	799982	801034	.	+	.	locus_tag=b0769;gene=ybhH;feature=gene;product=conserved protein
+NC_000913	Ecocyc_14.1	gene	801110	802543	.	+	.	locus_tag=b0770;gene=ybhI;feature=gene;product=YbhI DASS Transporter
+NC_000913	Ecocyc_14.1	gene	802726	804987	.	+	.	locus_tag=b0771;gene=ybhJ;feature=gene;product=predicted hydratase
+NC_000913	Ecocyc_14.1	gene	808567	809607	.	+	.	locus_tag=b0775;gene=bioB;feature=gene;product=biotin synthase monomer;KpOrtho=KPN_00800;color=00FF00
+NC_000913	Ecocyc_14.1	gene	809604	810758	.	+	.	locus_tag=b0776;gene=bioF;feature=gene;product=8-amino-7-oxononanoate synthase monomer;KpOrtho=KPN_00801;color=00FF00
+NC_000913	Ecocyc_14.1	gene	810745	811500	.	+	.	locus_tag=b0777;gene=bioC;feature=gene;product=predicted methyltransferase, enzyme of biotin synthesis;KpOrtho=KPN_00802;color=00FF00
+NC_000913	Ecocyc_14.1	gene	811493	812170	.	+	.	locus_tag=b0778;gene=bioD;feature=gene;product=dethiobiotin synthetase monomer;KpOrtho=KPN_00803;color=00FF00
+NC_000913	Ecocyc_14.1	gene	812749	814770	.	+	.	locus_tag=b0779;gene=uvrB;feature=gene;product=DNA repair, excision nuclease subunit B;KpOrtho=KPN_00804;color=00FF00
+NC_000913	Ecocyc_14.1	gene	816267	817256	.	+	.	locus_tag=b0781;gene=moaA;feature=gene;product=molybdopterin biosynthesis protein A;KpOrtho=KPN_00810;color=00FF00
+NC_000913	Ecocyc_14.1	gene	817278	817790	.	+	.	locus_tag=b0782;gene=moaB;feature=gene;product=MoaB subunit;KpOrtho=KPN_00811;color=00FF00
+NC_000913	Ecocyc_14.1	gene	817793	818278	.	+	.	locus_tag=b0783;gene=moaC;feature=gene;product=molybdopterin biosynthesis protein C;KpOrtho=KPN_00812;color=00FF00
+NC_000913	Ecocyc_14.1	gene	818271	818516	.	+	.	locus_tag=b0784;gene=moaD;feature=gene;product=MoaD-S;KpOrtho=KPN_00813;color=00FF00
+NC_000913	Ecocyc_14.1	gene	818518	818970	.	+	.	locus_tag=b0785;gene=moaE;feature=gene;product=molybdopterin synthase large subunit;KpOrtho=KPN_00814;color=00FF00
+NC_000913	Ecocyc_14.1	gene	819107	819811	.	+	.	locus_tag=b0786;gene=ybhL;feature=gene;product=predicted inner membrane protein;KpOrtho=KPN_00815;color=00FF00
+NC_000913	Ecocyc_14.1	gene	820016	820729	.	+	.	locus_tag=b0787;gene=ybhM;feature=gene;product=conserved inner membrane protein
+NC_000913	Ecocyc_14.1	gene	823853	824263	.	+	.	locus_tag=b0791;gene=ybhQ;feature=gene;product=predicted inner membrane protein;KpOrtho=KPN_00819;color=00FF00
+NC_000913	Ecocyc_14.1	gene	830095	831459	.	+	.	locus_tag=b0797;gene=rhlE;feature=gene;product=ATP-dependent RNA helicase;KpOrtho=KPN_00830;color=00FF00
+NC_000913	Ecocyc_14.1	gene	832293	834443	.	+	.	locus_tag=b0799;gene=dinG;feature=gene;product=ATP-dependent helicase;KpOrtho=KPN_00831;color=00FF00
+NC_000913	Ecocyc_14.1	gene	834471	835433	.	+	.	locus_tag=b0800;gene=ybiB;feature=gene;product=predicted transferase/phosphorylase;KpOrtho=KPN_00832;color=00FF00
+NC_000913	Ecocyc_14.1	gene	835574	836659	.	+	.	locus_tag=b0801;gene=ybiC;feature=gene;product=predicted dehydrogenase;KpOrtho=KPN_02089;color=00FF00
+NC_000913	Ecocyc_14.1	gene	841555	842481	.	+	.	locus_tag=b0807;gene=rlmF;feature=gene;product=23S rRNA m (6)A1618 methyltransferase;KpOrtho=KPN_00836;color=00FF00
+NC_000913	Ecocyc_14.1	gene	849673	850188	.	+	.	locus_tag=b0814;gene=ompX;feature=gene;product=outer membrane protein X;KpOrtho=KPN_00843;color=00FF00
+NC_000913	Ecocyc_14.1	gene	851894	852163	.	+	.	locus_tag=b0816;gene=yliL;feature=gene;product=predicted protein
+NC_000913	Ecocyc_14.1	gene	852406	852873	.	+	.	locus_tag=b0817;gene=mntR;feature=gene;product=MntR-Mn (2+) DNA binding transcriptional repressor;KpOrtho=KPN_00845;color=00FF00
+NC_000913	Ecocyc_14.1	gene	852870	853988	.	+	.	locus_tag=b0818;gene=ybiR;feature=gene;product=predicted transporter;KpOrtho=KPN_00846;color=00FF00
+NC_000913	Ecocyc_14.1	gene	855186	856778	.	+	.	locus_tag=b0820;gene=ybiT;feature=gene;product=putative ATP-binding component of a transport system;KpOrtho=KPN_00851;color=00FF00
+NC_000913	Ecocyc_14.1	gene	862865	863527	.	+	.	locus_tag=b0825;gene=fsaA;feature=gene;product=Fsa
+NC_000913	Ecocyc_14.1	gene	865791	866756	.	+	.	locus_tag=b0828;gene=iaaA;feature=gene;product=beta cleavage product of IaaA;KpOrtho=KPN_00861;color=00FF00
+NC_000913	Ecocyc_14.1	gene	866776	868614	.	+	.	locus_tag=b0829;gene=gsiA;feature=gene;product=gsiABCD glutathione ABC transporter;KpOrtho=KPN_00862;color=00FF00
+NC_000913	Ecocyc_14.1	gene	868634	870172	.	+	.	locus_tag=b0830;gene=gsiB;feature=gene;product=gsiABCD glutathione ABC transporter;KpOrtho=KPN_00863;color=00FF00
+NC_000913	Ecocyc_14.1	gene	870190	871110	.	+	.	locus_tag=b0831;gene=gsiC;feature=gene;product=gsiABCD glutathione ABC transporter;KpOrtho=KPN_00864;color=00FF00
+NC_000913	Ecocyc_14.1	gene	871113	872024	.	+	.	locus_tag=b0832;gene=gsiD;feature=gene;product=gsiABCD glutathione ABC transporter;KpOrtho=KPN_00865;color=00FF00
+NC_000913	Ecocyc_14.1	gene	872202	874550	.	+	.	locus_tag=b0833;gene=yliE;feature=gene;product=predicted c-di-GMP-specific phosphodiesterase
+NC_000913	Ecocyc_14.1	gene	874558	875886	.	+	.	locus_tag=b0834;gene=yliF;feature=gene;product=predicted diguanylate cyclase
+NC_000913	Ecocyc_14.1	gene	877471	877854	.	+	.	locus_tag=b0836;gene=bssR;feature=gene;product=regulator of biofilm formation;KpOrtho=KPN_00868;color=00FF00
+NC_000913	Ecocyc_14.1	gene	877965	879080	.	+	.	locus_tag=b0837;gene=yliI;feature=gene;product=aldose sugar dehydrogenase;KpOrtho=KPN_00869;color=00FF00
+NC_000913	Ecocyc_14.1	gene	879950	881152	.	+	.	locus_tag=b0839;gene=dacC;feature=gene;product=penicillin-binding protein 6;KpOrtho=KPN_00871;color=00FF00
+NC_000913	Ecocyc_14.1	gene	882896	884128	.	+	.	locus_tag=b0842;gene=cmr;feature=gene;product=MdfA/Cmr MFS multidrug transporter;KpOrtho=KPN_00874;color=00FF00
+NC_000913	Ecocyc_14.1	gene	886646	887182	.	+	.	locus_tag=b0846;gene=ybjK;feature=gene;product=predicted DNA-binding transcriptional regulator;KpOrtho=KPN_00877;color=00FF00
+NC_000913	Ecocyc_14.1	gene	889312	889689	.	+	.	locus_tag=b0848;gene=ybjM;feature=gene;product=predicted inner membrane protein;KpOrtho=KPN_00879;color=00FF00
+NC_000913	Ecocyc_14.1	gene	890136	890423	.	+	.	locus_tag=b0850;gene=ybjC;feature=gene;product=predicted inner membrane protein
+NC_000913	Ecocyc_14.1	gene	890407	891129	.	+	.	locus_tag=b0851;gene=nfsA;feature=gene;product=NADPH nitroreductase monomer;KpOrtho=KPN_00882;color=00FF00
+NC_000913	Ecocyc_14.1	gene	891190	892092	.	+	.	locus_tag=b0852;gene=rimK;feature=gene;product=ribosomal protein S6 modification protein;KpOrtho=KPN_00883;color=00FF00
+NC_000913	Ecocyc_14.1	gene	892180	892656	.	+	.	locus_tag=b0853;gene=ybjN;feature=gene;product=predicted oxidoreductase;KpOrtho=KPN_00884;color=00FF00
+NC_000913	Ecocyc_14.1	gene	893007	894119	.	+	.	locus_tag=b0854;gene=potF;feature=gene;product=putrescine ABC transporter;KpOrtho=KPN_00885;color=00FF00
+NC_000913	Ecocyc_14.1	gene	894214	895347	.	+	.	locus_tag=b0855;gene=potG;feature=gene;product=putrescine ABC transporter;KpOrtho=KPN_00886;color=00FF00
+NC_000913	Ecocyc_14.1	gene	895357	896310	.	+	.	locus_tag=b0856;gene=potH;feature=gene;product=putrescine ABC transporter;KpOrtho=KPN_00887;color=00FF00
+NC_000913	Ecocyc_14.1	gene	896307	897152	.	+	.	locus_tag=b0857;gene=potI;feature=gene;product=putrescine ABC transporter;KpOrtho=KPN_00888;color=00FF00
+NC_000913	Ecocyc_14.1	gene	897212	897700	.	+	.	locus_tag=b0858;gene=ybjO;feature=gene;product=predicted inner membrane protein;KpOrtho=KPN_00889;color=00FF00
+NC_000913	Ecocyc_14.1	gene	897741	898868	.	+	.	locus_tag=b0859;gene=rlmC;feature=gene;product=23S rRNA m (5)U747 methyltransferase;KpOrtho=KPN_00890;color=00FF00
+NC_000913	Ecocyc_14.1	gene	903816	904139	.	+	.	locus_tag=b0866;gene=ybjQ;feature=gene;product=conserved protein
+NC_000913	Ecocyc_14.1	gene	904136	904966	.	+	.	locus_tag=b0867;gene=amiD;feature=gene;product=anhydro-N-acetylmuramoyl-L-alanine amidase;KpOrtho=KPN_00900;color=00FF00
+NC_000913	Ecocyc_14.1	gene	915696	917354	.	+	.	locus_tag=b0876;gene=ybjD;feature=gene;product=conserved protein with a nucleotide triphosphate hydrolase domain;KpOrtho=KPN_00910;color=00FF00
+NC_000913	Ecocyc_14.1	gene	918458	919573	.	+	.	locus_tag=b0878;gene=macA;feature=gene;product=MacAB-TolC Macrolide Efflux Transport System;KpOrtho=KPN_00911;color=00FF00
+NC_000913	Ecocyc_14.1	gene	919570	921516	.	+	.	locus_tag=b0879;gene=macB;feature=gene;product=MacAB-TolC Macrolide Efflux Transport System;KpOrtho=KPN_00912;color=00FF00
+NC_000913	Ecocyc_14.1	gene	922136	922456	.	+	.	locus_tag=b0881;gene=clpS;feature=gene;product=specificity factor for ClpA-ClpP chaperone-protease complex;KpOrtho=KPN_00914;color=00FF00
+NC_000913	Ecocyc_14.1	gene	922487	924763	.	+	.	locus_tag=b0882;gene=clpA;feature=gene;product=ClpAXP;KpOrtho=KPN_00915;color=00FF00
+NC_000913	Ecocyc_14.1	gene	931818	932312	.	+	.	locus_tag=b0889;gene=lrp;feature=gene;product=Lrp transcriptional dual regulator;KpOrtho=KPN_00921;color=00FF00
+NC_000913	Ecocyc_14.1	gene	932447	936436	.	+	.	locus_tag=b0890;gene=ftsK;feature=gene;product=essential cell division protein FtsK;KpOrtho=KPN_00922;color=00FF00
+NC_000913	Ecocyc_14.1	gene	936592	937206	.	+	.	locus_tag=b0891;gene=lolA;feature=gene;product=periplasmic chaperone, effects translocation of lipoproteins from inner membrane to outer;KpOrtho=KPN_00923;color=00FF00
+NC_000913	Ecocyc_14.1	gene	937217	938560	.	+	.	locus_tag=b0892;gene=rarA;feature=gene;product=recombination factor;KpOrtho=KPN_00924;color=00FF00
+NC_000913	Ecocyc_14.1	gene	938651	939943	.	+	.	locus_tag=b0893;gene=serS;feature=gene;product=seryl-tRNA synthetase;KpOrtho=KPN_00925;color=00FF00
+NC_000913	Ecocyc_14.1	gene	940182	942626	.	+	.	locus_tag=b0894;gene=dmsA;feature=gene;product=dimethyl sulfoxide reductase, chain A;KpOrtho=KPN_00926;color=00FF00
+NC_000913	Ecocyc_14.1	gene	942637	943254	.	+	.	locus_tag=b0895;gene=dmsB;feature=gene;product=dimethyl sulfoxide reductase, chain B;KpOrtho=KPN_01579;color=00FF00
+NC_000913	Ecocyc_14.1	gene	943256	944119	.	+	.	locus_tag=b0896;gene=dmsC;feature=gene;product=dimethyl sulfoxide reductase, chain C;KpOrtho=KPN_00928;color=00FF00
+NC_000913	Ecocyc_14.1	gene	945094	946242	.	+	.	locus_tag=b0898;gene=ycaD;feature=gene;product=YcaD MFS transporter;KpOrtho=KPN_00929;color=00FF00
+NC_000913	Ecocyc_14.1	gene	946452	947882	.	+	.	locus_tag=b0899;gene=ycaM;feature=gene;product=YcaM predicted APC amino acid transporter
+NC_000913	Ecocyc_14.1	gene	948891	949481	.	+	.	locus_tag=b0901;gene=ycaK;feature=gene;product=conserved protein
+NC_000913	Ecocyc_14.1	gene	955985	956677	.	+	.	locus_tag=b0906;gene=ycaP;feature=gene;product=conserved inner membrane protein;KpOrtho=KPN_00934;color=00FF00
+NC_000913	Ecocyc_14.1	gene	956876	957964	.	+	.	locus_tag=b0907;gene=serC;feature=gene;product=phosphohydroxythreonine aminotransferase / 3-phosphoserine aminotransferase;KpOrtho=KPN_00935;color=00FF00
+NC_000913	Ecocyc_14.1	gene	958035	959318	.	+	.	locus_tag=b0908;gene=aroA;feature=gene;product=3-phosphoshikimate-1-carboxyvinyltransferase;KpOrtho=KPN_00936;color=00FF00
+NC_000913	Ecocyc_14.1	gene	959487	960251	.	+	.	locus_tag=b0909;gene=ycaL;feature=gene;product=putative heat shock protein
+NC_000913	Ecocyc_14.1	gene	960424	961107	.	+	.	locus_tag=b0910;gene=cmk;feature=gene;product=cytidylate kinase;KpOrtho=KPN_00937;color=00FF00
+NC_000913	Ecocyc_14.1	gene	961218	962891	.	+	.	locus_tag=b0911;gene=rpsA;feature=gene;product=30S ribosomal subunit protein S1;KpOrtho=KPN_00938;color=00FF00
+NC_000913	Ecocyc_14.1	gene	963051	963335	.	+	.	locus_tag=b0912;gene=ihfB;feature=gene;product=integration host factor (IHF), beta subunit;KpOrtho=KPN_00939;color=00FF00
+NC_000913	Ecocyc_14.1	gene	963543	965807	.	+	.	locus_tag=b0913;gene=ycaI;feature=gene;product=conserved inner membrane protein;KpOrtho=KPN_00940;color=00FF00
+NC_000913	Ecocyc_14.1	gene	965844	967592	.	+	.	locus_tag=b0914;gene=msbA;feature=gene;product=ATP-binding lipopolysaccharide transport protein;KpOrtho=KPN_00941;color=00FF00
+NC_000913	Ecocyc_14.1	gene	967589	968575	.	+	.	locus_tag=b0915;gene=lpxK;feature=gene;product=tetraacyldisaccharide 4'-kinase;KpOrtho=KPN_00942;color=00FF00
+NC_000913	Ecocyc_14.1	gene	968612	969844	.	+	.	locus_tag=b0916;gene=ycaQ;feature=gene;product=conserved protein;KpOrtho=KPN_00943;color=00FF00
+NC_000913	Ecocyc_14.1	gene	969896	970078	.	+	.	locus_tag=b0917;gene=ycaR;feature=gene;product=conserved protein;KpOrtho=KPN_00944;color=00FF00
+NC_000913	Ecocyc_14.1	gene	970075	970821	.	+	.	locus_tag=b0918;gene=kdsB;feature=gene;product=3-deoxy-D-manno-octulosonate cytidylyltransferase;KpOrtho=KPN_00945;color=00FF00
+NC_000913	Ecocyc_14.1	gene	970975	971868	.	+	.	locus_tag=b0919;gene=ycbJ;feature=gene;product=conserved protein;KpOrtho=KPN_00946;color=00FF00
+NC_000913	Ecocyc_14.1	gene	972760	973545	.	+	.	locus_tag=b0921;gene=smtA;feature=gene;product=predicted S-adenosylmethionine-dependent methyltransferase;KpOrtho=KPN_00948;color=00FF00
+NC_000913	Ecocyc_14.1	gene	973542	974864	.	+	.	locus_tag=b0922;gene=mukF;feature=gene;product=Ca (2+)-binding protein involved in chromosome partitioning;KpOrtho=KPN_00949;color=00FF00
+NC_000913	Ecocyc_14.1	gene	974872	975549	.	+	.	locus_tag=b0923;gene=mukE;feature=gene;product=protein involved in chromosome partitioning;KpOrtho=KPN_00950;color=00FF00
+NC_000913	Ecocyc_14.1	gene	975549	980009	.	+	.	locus_tag=b0924;gene=mukB;feature=gene;product=cell division protein involved in chromosome partitioning;KpOrtho=KPN_00951;color=00FF00
+NC_000913	Ecocyc_14.1	gene	980270	982117	.	+	.	locus_tag=b0925;gene=ycbB;feature=gene;product=L,D-transpeptidase YcbB;KpOrtho=KPN_00952;color=00FF00
+NC_000913	Ecocyc_14.1	gene	982298	982846	.	+	.	locus_tag=b0926;gene=ycbK;feature=gene;product=conserved protein;KpOrtho=KPN_00953;color=00FF00
+NC_000913	Ecocyc_14.1	gene	982873	983520	.	+	.	locus_tag=b0927;gene=ycbL;feature=gene;product=predicted metal-binding enzyme;KpOrtho=KPN_00954;color=00FF00
+NC_000913	Ecocyc_14.1	gene	989845	992457	.	+	.	locus_tag=b0932;gene=pepN;feature=gene;product=aminopeptidase N;KpOrtho=KPN_00968;color=00FF00
+NC_000913	Ecocyc_14.1	gene	997091	997630	.	+	.	locus_tag=b0938;gene=ycbQ;feature=gene;product=predicted fimbrial-like adhesin protein
+NC_000913	Ecocyc_14.1	gene	997713	998414	.	+	.	locus_tag=b0939;gene=ycbR;feature=gene;product=predicted periplasmic pilin chaperone
+NC_000913	Ecocyc_14.1	gene	998439	1001039	.	+	.	locus_tag=b0940;gene=ycbS;feature=gene;product=predicted outer membrane usher protein

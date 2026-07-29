@@ -13,3 +13,21 @@
 - The /summarize skill depends on real conversation history and can't infer session activity from git status alone.
 
 ---
+
+## Session — 2026-07-29
+
+### Done
+- Completed Exercises 1-3b.
+- Extended the GFF filter script with featuretype and positionrange options.
+
+### Broke / Struggled
+- Path issues requiring `../` to reference files correctly.
+- Variable name mismatch (`gff_df` vs `df`).
+- Confusion between `.iat` and `.iloc`.
+
+### Learned
+- pandas GFF loading options.
+- Performance difference between `iterrows()` and vectorized operations.
+- The concept of variable scope in the notebook kernel.
+
+---

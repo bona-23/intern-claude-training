@@ -23,3 +23,5 @@ data/reference/*.bt2
 
 # Instructor-only materials (answer keys, rubric, reports — never distribute to interns)
 instructor/
+data/reference/rnaseq.gff
+data/reference/rnaseq_depleted.gff
